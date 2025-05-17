@@ -2,7 +2,7 @@ import logging, aiohttp, sqlite3
 from telegram.ext import Application, MessageHandler, CommandHandler, ConversationHandler, filters
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 
-BOT_TOKEN = '7992901322:AAFWhXx8WQnKN3NcsDKBRMIDVTyvFPH0gPg'
+BOT_TOKEN = ''
 
 # Запускаем логирование
 logging.basicConfig(
